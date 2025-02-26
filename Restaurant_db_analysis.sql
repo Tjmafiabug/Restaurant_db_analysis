@@ -1,4 +1,4 @@
-use restuarant_db;
+use restaurant_db;
 #OBJECTIVE-1
 
 -- 1. View the menu_items table on the menu.
